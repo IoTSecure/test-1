@@ -40,3 +40,4 @@ print("Hello world")
 1. Install C++
 2. Install protobuf
 3. Compile with G++
+슬의 이번주가 막방입니다 여러분 꼭 보세요
